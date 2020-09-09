@@ -1,5 +1,6 @@
 #!/bin/bash
-
+# Make by Robert Fil
+# 09.09.2020
 
 server=0.0.0.0
 port=22
